@@ -1,0 +1,15 @@
+{
+  "name": "mock-technical-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neos1803/mock-technical-test.git",
+  "author": "Purba <nanda@ecampus.ut.ac.id>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
